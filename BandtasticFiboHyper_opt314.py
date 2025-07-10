@@ -13,7 +13,8 @@ from freqtrade.strategy import (
 )
 # strategy_BandtasticFiboHyper_2025-07-06_08-52-09.fthypt
 # 314/500:    159 trades. 106/35/18 Wins/Draws/Losses. 
-# Avg profit   1.07%. Median profit   0.40%. 
+# Avg profit   1.07%. 
+# Median profit   0.40%. 
 # Total profit 3315.24095096 USDT ( 331.52%). 
 # Long / Short                  │ 8 / 151                        │
 # Total profit Long %           │ 90.02%                         │
